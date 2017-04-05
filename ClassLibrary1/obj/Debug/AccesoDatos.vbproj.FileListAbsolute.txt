@@ -10,3 +10,15 @@ C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\ClassLibrary
 C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.dll
 C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.xml
 C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.pdb
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\bin\Debug\AccesoDatos.dll
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\bin\Debug\AccesoDatos.pdb
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\bin\Debug\AccesoDatos.xml
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\bin\Debug\EmailSender.dll
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\bin\Debug\EmailSender.pdb
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\bin\Debug\EmailSender.xml
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.dll
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.xml
+C:\Users\Universidad\Desktop\WebApplication2\ClassLibrary1\obj\Debug\AccesoDatos.pdb

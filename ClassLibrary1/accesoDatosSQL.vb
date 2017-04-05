@@ -93,6 +93,8 @@ Public Class accesoDatosSQL
                     respuesta = 1
                 ElseIf tipo.Equals("A") Then
                     respuesta = 0
+                ElseIf tipo.Equals("AD") Then
+                    respuesta = 2
                 Else
                     respuesta = -1
                 End If

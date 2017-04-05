@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AccesoDatos", "ClassLibrary
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EmailSender", "EmailSender\EmailSender.vbproj", "{07DF7A1E-6BA6-4E80-B3F2-AA29E6491780}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sha1", "sha1\sha1.vbproj", "{AAED4273-C1A8-4F74-998D-DDCCF2DCDE6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{07DF7A1E-6BA6-4E80-B3F2-AA29E6491780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07DF7A1E-6BA6-4E80-B3F2-AA29E6491780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07DF7A1E-6BA6-4E80-B3F2-AA29E6491780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAED4273-C1A8-4F74-998D-DDCCF2DCDE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAED4273-C1A8-4F74-998D-DDCCF2DCDE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAED4273-C1A8-4F74-998D-DDCCF2DCDE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAED4273-C1A8-4F74-998D-DDCCF2DCDE6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
